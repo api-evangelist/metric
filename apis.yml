@@ -1,7 +1,15 @@
 aid: metric
 name: Metric
-description: Metric is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Metric is an AI-powered financial intelligence and accounting platform
+  built for business owners, founders, and CEOs. It replaces spreadsheets and expensive
+  CFO teams with a real-time financial dashboard and Max, an AI co-pilot (CF-AI) that
+  answers financial questions such as runway, hiring capacity, and spending in plain
+  language, drawn from live financial data. Metric handles accounting and bookkeeping,
+  payables and receivables, invoicing, eight report types, and UAE VAT compliance,
+  and connects to QuickBooks, Zoho Books, Xero, and Shopify. Headquartered in Abu
+  Dhabi with offices in Rawalpindi, Singapore, and Riyadh, it is backed by 500 Global
+  and serves businesses across 190+ countries. Metric is a SaaS web application with
+  no public developer API surface at this time.
 url: https://raw.githubusercontent.com/api-evangelist/metric/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +17,31 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://metricapp.co/assets/images/logo.svg
 tags:
 - Company
+- Accounting
+- Financial Management
+- Fintech
+- Bookkeeping
+- Invoicing
+- Artificial Intelligence
+- VAT Compliance
+- Small Business
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,24 @@ maintainers:
 common:
 - type: Website
   url: https://metricapp.co
+- type: Pricing
+  url: https://metricapp.co/pricing.html
+- type: SignUp
+  url: https://web.metricapp.co/login
+- type: TermsOfService
+  url: https://metricapp.co/terms-of-service.html
+- type: PrivacyPolicy
+  url: https://metricapp.co/privacy.html
+- type: Blog
+  url: https://metricapp.co/blog.html
+- type: Support
+  url: https://metricapp.co/contact.html
+- type: LLMsTxt
+  url: llms/metric-llms.txt
+- type: DomainSecurity
+  url: security/metric-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
