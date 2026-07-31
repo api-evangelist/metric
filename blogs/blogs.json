@@ -1,0 +1,14 @@
+{
+  "repo": "metric",
+  "feeds": [
+    {
+      "source": "https://metricapp.co/privacy.html",
+      "feed_url": "https://metricapp.co/privacy.html",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}

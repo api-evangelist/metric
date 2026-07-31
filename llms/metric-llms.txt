@@ -1,0 +1,72 @@
+# Metric
+
+> Metric is an AI-powered financial intelligence and accounting platform built for business owners, founders, and CEOs. It replaces spreadsheets and expensive CFO teams with a real-time financial dashboard and Max — an AI co-pilot (CF-AI) that answers financial questions instantly in plain language.
+
+Metric is headquartered in Abu Dhabi (UAE) with offices in Rawalpindi (Pakistan), Singapore, and Riyadh (Saudi Arabia). It serves 200K+ businesses across 190+ countries and has processed over $4.2 billion in transactions. Plans start at AED 0/month (free tier available).
+
+## Key Pages
+
+- [Home](/): Overview of Max AI, core value proposition, social proof, and sign-up CTA.
+- [Features](/features.html): Full breakdown of accounting, bookkeeping, invoicing, VAT, reports, reconciliation, integrations, and Max AI capabilities.
+- [Pricing](/pricing.html): Five tiers — Free (AED 0), Lite (AED 49/$9), Grow (AED 149/$35), Pro (AED 249/$79), Enterprise (AED 380+/$300+).
+- [About](/about.html): Company mission, vision, values, founding story, and team profiles.
+- [Book a Demo](/bookademo.html): Schedule a live walkthrough of the platform.
+- [Blog](/blog.html): Articles on accounting, finance, and business growth.
+- [FAQ](/faq.html): Common questions about the product, billing, and compliance.
+- [Contact](/contact.html): Support email, phone (+971 558 854 516), WhatsApp, and office locations.
+- [Careers](/careers.html): Open roles across engineering, product, design, and finance.
+- [Terms of Service](/terms-of-service.html): Legal terms and conditions.
+- [Privacy Policy](/privacy.html): Data handling and privacy practices.
+- [Cancellation & Refund Policy](/cancel.html): Subscription cancellation and refund terms.
+
+## Product
+
+### Max AI (CF-AI — Chief Financial AI)
+Max is Metric's embedded AI co-pilot. Users ask Max questions in plain language — "What's my runway?", "Can I afford a new hire?", "Where are my biggest expenses?" — and receive instant, context-aware answers drawn from their live financial data. Max also benchmarks performance against 200K+ businesses globally to surface industry insights.
+
+### Accounting & Bookkeeping
+- Transaction management via manual entry, CSV import, or integrations
+- Payables and receivables tracking with partial payment support
+- Multiple account management (e.g., founder vs. business accounts)
+- Real-time financial dashboard with trend graphs
+
+### Reports & Invoicing
+- 8 auto-generated report types (P&L, balance sheet, cash flow, and more)
+- Customisable invoices with bank details and instant payment options
+- Customer, product, and vendor tracking
+
+### Compliance & VAT
+- UAE VAT calculation and reporting
+- Audit-ready exports
+- Year-end reporting support
+- Tax advisory (add-on on Pro/Enterprise)
+
+### Integrations
+QuickBooks, Zoho Books, Xero, Shopify, direct bank feeds. Salla and Zid coming soon.
+
+## Who It's For
+
+- **Business owners and founders** who need financial clarity without a full accounting team
+- **CEOs and operators** who make hiring, spending, and investment decisions and need instant answers
+- **Startups from day one** — free tier allows early-stage companies to start structured bookkeeping immediately
+- **UAE and GCC businesses** — VAT compliance and AED-first pricing make it well-suited for the region, though the platform serves 190+ countries
+
+## Company
+
+- **Founded:** 2022
+- **Team:** 10–100 employees
+- **CEO:** Meenah Tariq
+- **CPO:** Omar Parvez
+- **CTO:** Habiba
+- **Mission:** Empower every business owner to take charge and reach their full potential through simplified finance and data-driven insights.
+- **Vision:** Become an essential companion for millions of entrepreneurs everywhere — as effortless as Instagram, from day one.
+- **Support:** support@metricapp.co | +971 558 854 516
+- **App login:** https://web.metricapp.co/login
+
+## Optional
+
+- [LinkedIn](https://www.linkedin.com/company/metricapp/)
+- [Instagram](https://www.instagram.com/metric.hq/)
+- [Twitter / X](https://twitter.com/MetricHq)
+- [Facebook](https://www.facebook.com/metric.hq)
+- [TikTok](https://www.tiktok.com/@metric.hq)
